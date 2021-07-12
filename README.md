@@ -1,1 +1,1 @@
-# Chinese-Japanese-classification
+# 机器学习大作业：人脸国籍识别（中国、日本）
